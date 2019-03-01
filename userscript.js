@@ -2,7 +2,7 @@
 // @name         Enhanced Github
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  take over the world!
+// @description  try to take over the world with ES6!
 // @author       Hrusikesh Panda
 // @match        https://github.com/*/*
 // @grant        none
@@ -21,6 +21,7 @@
       .numbers-summary .octicon,
       .overall-summary,
       .repository-lang-stats-graph,
+      .pagehead-actions li:nth-of-type(2n+1) .social-count,
       .btn-link.f6 {
         display: none !important;
       }
