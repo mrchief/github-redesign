@@ -14,4 +14,5 @@ WIP. So far it:
  
  ## Sample Screenshot
  
-![image](https://user-images.githubusercontent.com/781818/53618246-869d7c80-3bb8-11e9-8d04-46b6eec5964d.png)
+![image](https://user-images.githubusercontent.com/781818/53618520-aaad8d80-3bb9-11e9-88f7-f33343793949.png)
+
